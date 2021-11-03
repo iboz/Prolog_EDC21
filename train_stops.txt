@@ -1,0 +1,10 @@
+%% write facts
+
+%% write function.
+%% next_stop(town1, X).
+
+%% write function
+%% second_stop(town1, X).
+
+%% write function
+%% can_get(town2,town5) .
